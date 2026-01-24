@@ -218,8 +218,6 @@ To stay flexible for different clients, DeZerraDigital uses a **tool-agnostic** 
   - Cybersecurity-oriented mindset from the founder’s background.
   - Focus on minimizing attack surface, using reputable platforms, and following best practices where applicable.
 
-*(This README intentionally stays tech-agnostic so it doesn’t lock in one specific provider—Twilio, Zapier, Make, etc. can be swapped based on client needs.)*
-
 ---
 
 ## 🧩 Example Client Journey
