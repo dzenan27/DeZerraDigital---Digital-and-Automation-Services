@@ -4,6 +4,10 @@ DeZerraDigital is a small-business–focused digital services and automation stu
 
 We design **high-converting websites** and build **automation systems** that help local businesses capture more leads, respond faster, and stop losing revenue to missed messages.
 
+
+https://github.com/user-attachments/assets/8402d8e8-28ab-4f4d-a8e0-d15a2692d8d2
+
+
 ---
 
 ## 🚀 Quick Facts
